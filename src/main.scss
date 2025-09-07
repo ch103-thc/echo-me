@@ -1,0 +1,28 @@
+:root {
+    // Terminal window colors
+    --darker: #1d1d1d; // Main terminal background (dark gray)
+    --lighter: #2d2d2d; // Terminal header background
+
+    // Terminal button colors
+    --red: #ff5f57; // Close button
+    --orange: #ffbd2e; // Minimize button  
+    --green: #28ca42; // Maximize button
+
+    // Text colors
+    --text: #f5f5f5; // Primary text (off-white)
+    --title: #a0a0a0; // Terminal title text
+    --small-text: #8a8a8a; // Secondary/muted text
+    --command: #4a9eff; // Command prompt and user input
+    --header: #64b5f6; // Headers and accent text
+    --help: #ff6b9d; // Help command highlighting
+    --error: #ff6b68; // Error messages
+    --tag: #1d1d1d; // Text on colored backgrounds
+
+    // Project status colors
+    --complete: #28ca42; // Green for completed projects
+    --active: #ffbd2e; // Orange for active projects
+    --in-dev: #ff6b9d; // Pink for in-development projects
+
+    // Scrollbar colors
+    --scrollbar-thumb: #4a4a4a; // Scrollbar handle
+}
